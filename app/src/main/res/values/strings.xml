@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myloginproject</string>
+
+    <string name="username_error">Username is empty</string>
+    <string name="password_error">Password is empty</string>
+    <string name="login_error">Username and password is incorrect</string>
+</resources>
